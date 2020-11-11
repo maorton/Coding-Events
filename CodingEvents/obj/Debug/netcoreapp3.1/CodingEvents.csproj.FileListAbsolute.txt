@@ -37,3 +37,4 @@ C:\Users\megan\Desktop\lc101\CSharp\Ch13Exercise\CodingEvents\obj\Debug\netcorea
 C:\Users\megan\Desktop\lc101\CSharp\Ch13Exercise\CodingEvents\obj\Debug\netcoreapp3.1\CodingEvents.genruntimeconfig.cache
 C:\Users\megan\Desktop\lc101\CSharp\Ch13Exercise\CodingEvents\obj\Debug\netcoreapp3.1\CodingEvents.csproj.CopyComplete
 C:\Users\megan\Desktop\lc101\CSharp\Ch13Exercise\CodingEvents\obj\Debug\netcoreapp3.1\Razor\Views\Events\Add.cshtml.g.cs
+C:\Users\megan\Desktop\lc101\CSharp\Ch13Exercise\CodingEvents\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LinksListPartial.cshtml.g.cs
